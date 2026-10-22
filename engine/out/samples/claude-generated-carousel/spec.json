@@ -1,0 +1,15 @@
+{
+  "format": "carousel",
+  "layout": "bold",
+  "handle": "@axion.ai",
+  "headline": "Is your clinic losing patients after 8 PM?",
+  "sub": "5 signs you need an AI receptionist.",
+  "cta": "DM \"DEMO\" to see it live",
+  "slides": [
+    { "title": "Is your clinic losing patients after 8 PM?", "body": "5 signs you need an AI receptionist. Swipe →" },
+    { "title": "Enquiries sit unanswered till morning", "body": "Patients message at night. By 10 AM, they've booked elsewhere." },
+    { "title": "Your front desk is always on the phone", "body": "Walk-ins wait while calls ring out. Someone always loses." },
+    { "title": "Same 5 questions, all day", "body": "Timings, fees, doctor availability. Your team repeats them hundreds of times." },
+    { "title": "Empty slots, nobody chasing", "body": "Signs 4 & 5: forgotten reminders and missed appointments, with no follow-up. DM \"DEMO\" to see it live." }
+  ]
+}

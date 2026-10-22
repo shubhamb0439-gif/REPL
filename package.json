@@ -1,0 +1,14 @@
+{
+  "name": "rypl",
+  "private": true,
+  "description": "RYPL — AI social media manager by AXIon",
+  "scripts": {
+    "setup": "npm i && npm --prefix web i && npm --prefix engine i && npm --prefix engine/remotion i && npx --prefix engine playwright install chromium",
+    "dev": "concurrently -n web,server -c green,magenta \"npm --prefix web run dev\" \"npm --prefix server run dev\"",
+    "build": "npm --prefix web run build",
+    "remotion:studio": "npm --prefix engine/remotion run studio"
+  },
+  "devDependencies": {
+    "concurrently": "9.1.0"
+  }
+}

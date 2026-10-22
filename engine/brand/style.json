@@ -1,0 +1,40 @@
+{
+  "colors": {
+    "primary": "#2453ff",
+    "secondary": "#000000",
+    "accent": "#f6f8ff",
+    "bg": "#060a18",
+    "text": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Unbounded",
+    "body": "Inter"
+  },
+  "logo": "engine/uploads/1792650726494-Axion-Tech-Logo-on-Black.png",
+  "motif": "concentric ripple rings",
+  "layouts": [
+    "bold",
+    "split",
+    "minimal",
+    "festive"
+  ],
+  "safeZone": {
+    "reelTopPx": 220,
+    "reelBottomPx": 380
+  },
+  "sizes": {
+    "post": [
+      1080,
+      1350
+    ],
+    "story": [
+      1080,
+      1920
+    ],
+    "reel": [
+      1080,
+      1920
+    ]
+  },
+  "logoSize": "large"
+}

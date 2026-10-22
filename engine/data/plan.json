@@ -1,0 +1,329 @@
+[
+  {
+    "id": "p_mvj76cvn5qy",
+    "date": "2026-10-22",
+    "time": "19:00",
+    "angle": "create a motion reel to attract more clients, make sure it has hook , i need them to see ir and feel like we are professional, we can make shopify or an ecommerce websites too, make it 25sec long ",
+    "error": null,
+    "title": "Client relationship",
+    "format": "reel",
+    "result": {
+      "cta": "Start Your Project",
+      "sub": "Shopify stores, custom ecommerce & enterprise web apps — shipped in 2-4 weeks",
+      "files": [
+        "engine/out/shopify-clients-2026-10-22/reel.mp4",
+        "engine/out/shopify-clients-2026-10-22/cover.jpg"
+      ],
+      "format": "reel",
+      "layout": "bold",
+      "scenes": [
+        {
+          "t": "0.0s",
+          "text": "WHY ARE / YOUR / COMPETITORS / winning online?",
+          "motion": "words slam down from above, staggered 0.44s each"
+        },
+        {
+          "t": "1.9s",
+          "text": "YOUR STORE. LIVE IN WEEKS.",
+          "motion": "browser window scales up from centre, 3 product cards pop in, headline lifts up"
+        },
+        {
+          "t": "5.76s",
+          "text": "SHOPIFY + CUSTOM ECOM",
+          "motion": "SHOPIFY punches in from scale(0.5), + CUSTOM ECOM lifts up"
+        },
+        {
+          "t": "7.68s",
+          "text": "What we ship: Shopify / Custom Ecom / Web Apps",
+          "motion": "3 left-border accent pills slide in from left, staggered 1s each"
+        },
+        {
+          "t": "13.44s",
+          "text": "2-4 WEEKS (not 4-12 months)",
+          "motion": "number punches from scale(0.5), WEEKS lifts, strikethrough sub-text fades"
+        },
+        {
+          "t": "17.28s",
+          "text": "READY TO GET MORE CLIENTS?",
+          "motion": "headline surges up, divider line sweeps 80%, CTA fades in"
+        },
+        {
+          "t": "21.12s",
+          "text": "Logo + @axion.teck.ai + loop line",
+          "motion": "logo scales in, handle fades, 'Stop losing clients to better websites.' lifts up"
+        }
+      ],
+      "caption": "Your competitors already have a pro website. Do you?\n\nWhile you're offline, they're winning your clients.\n— Shopify stores built to convert\n— Custom ecommerce, scaled for growth\n— Enterprise web apps, AI-powered\n\nAxion ships production-ready in 2–4 weeks, not months.\n\nStop losing clients to better websites. 👉 Link in bio.\n\n#WebDevelopment #ShopifyStore #EcommerceWebsite #StartupIndia #TechStartup #WebDesign #DigitalIndia #ShopifyExperts #CustomWebsite #AxionTech",
+      "publish": "auto",
+      "hashtags": [
+        "#WebDevelopment",
+        "#ShopifyStore",
+        "#EcommerceWebsite",
+        "#StartupIndia",
+        "#TechStartup",
+        "#WebDesign",
+        "#DigitalIndia",
+        "#ShopifyExperts",
+        "#CustomWebsite",
+        "#AxionTech"
+      ],
+      "headline": "Why Are Your Competitors Winning Online?",
+      "postTime": "Friday 8:00 PM IST",
+      "rationale": [
+        "Rule #1 (86%): Hook opens with pain-point question 'Why are your competitors winning online?' — directed at founders without a pro web presence.",
+        "Rule #2 (78%): Browser mockup with live store reveals the outcome by ~4s, before explaining how.",
+        "Rule #3 (71%): 4 rapid word slams in first 1.9s cut every ~0.44s, well within the 0.8–1.2s cadence.",
+        "Rule #4 (69%): Recommended post time Friday 8PM IST.",
+        "Rule #5 (62%): Reel closes with 'Stop losing clients to better websites.' — loops back to the opening hook question.",
+        "Shopify + Custom Ecom explicitly called out per brief; browser mockup and left-border pills are a distinct layout from recent card-slide reels."
+      ]
+    },
+    "source": "manual",
+    "status": "Posted",
+    "mediaId": "18337267900277574",
+    "postedAt": "2026-10-22T13:31:23.320Z",
+    "permalink": "https://www.instagram.com/reel/DezGEBnivSH/",
+    "updatedAt": "2026-10-22T13:31:23.324Z",
+    "generatedAt": "2026-10-22T07:55:05.004Z"
+  },
+  {
+    "id": "p_mvj9fm9855r",
+    "date": "2026-10-23",
+    "time": "19:00",
+    "angle": "Sooo we want to tease our product recipto and rypl showing or teasing its relaese date that is nov 5th and also like we want to make it look epic, recipto an ai reciptonist and rypl a Ai social media manager, togerther they r more powerfull create a visual where wee 2 robots in foregroun dshowey , and like should symbolise these fetures without saying out loud what they are ",
+    "error": null,
+    "title": "A post shocasing like a teaser of recipto and RYPL",
+    "format": "post",
+    "result": {
+      "cta": "Mark the date. Nov 5.",
+      "sub": "Two AI products dropping together — one owns your front desk, one owns your feed.",
+      "files": [
+        "engine/out/axionduo-nov5-2026-10-22/post.png"
+      ],
+      "format": "post",
+      "layout": "photo",
+      "caption": "Two AIs. One signal.\n\nSomething's coming Nov 5.\n\nOne never misses a guest.\nOne never misses a moment.\n\nTogether — unstoppable.\n\nMark your calendars. 🗓️ 05.11.2026",
+      "publish": "auto",
+      "hashtags": [
+        "#ComingSoon",
+        "#AIProducts",
+        "#Nov5",
+        "#AXION",
+        "#ArtificialIntelligence",
+        "#ProductLaunch",
+        "#IndianStartup",
+        "#AIStartup",
+        "#TechIndia",
+        "#BuildingInPublic"
+      ],
+      "headline": "They're arriving. Nov 5.",
+      "postTime": "Fri · 8:00 PM",
+      "rationale": [
+        "Rule #2: reveal the outcome (the robots + date) before explaining what they do — curiosity gap drives saves",
+        "Rule #1: lead with intrigue not the logo — 'They're arriving' is a pain-adjacent hook that stops the scroll",
+        "Brand: confident, anti-hype — no product names, no buzzwords, pure tension",
+        "Style: deep navy bg, electric blue primary, Unbounded display font — on-brand throughout"
+      ]
+    },
+    "source": "manual",
+    "status": "Approved",
+    "editedAt": "2026-10-22T17:26:41.323Z",
+    "updatedAt": "2026-10-22T17:26:41.324Z",
+    "generatedAt": "2026-10-22T10:28:55.149Z"
+  },
+  {
+    "id": "p_mvjv1jtdqd1",
+    "date": "2026-10-24",
+    "time": "17:46",
+    "angle": "Create me a 30 sec intro reel for our product recipto  AI reciptionist\n\nStart off with a customer messaging in whatsappp and no one repying  indicating customer lost... make it a clinic scenerio \n\nand then introduce recipto a AI reciptionist something like waht if there is a person who never sleeps and answers your calls\n\nnet scene customer messages and immidiatly answwered.... make it a clinic scenerio \n\nend with Never loose a customer\nEarly access avalible on nov 5th\n\nDM for more details \n\nadd some robot image in backgorund ",
+    "error": null,
+    "title": "Recipto demo reel",
+    "format": "reel",
+    "result": {
+      "cta": "DM for Early Access",
+      "sub": "Recipto — The AI receptionist that never sleeps",
+      "files": [
+        "engine/out/recipto-clinic-demo-2026-10-22/robot.png",
+        "engine/out/recipto-clinic-demo-2026-10-22/reel.mp4",
+        "engine/out/recipto-clinic-demo-2026-10-22/cover.jpg"
+      ],
+      "format": "reel",
+      "layout": "bold",
+      "scenes": [
+        {
+          "t": "0.0s",
+          "text": "11:58 PM — CLINIC / Priya Sharma: Is the clinic open tomorrow? I need an appointment urgently.",
+          "motion": "Glassmorphism notification card slides down from top"
+        },
+        {
+          "t": "4.2s",
+          "text": "PATIENT GONE.",
+          "motion": "Red kinetic type pops from scale 0.7 with bounce ease"
+        },
+        {
+          "t": "8.7s",
+          "text": "What if there was someone who never sleeps?",
+          "motion": "AI robot image (Ken Burns pan) + 3 lines of text fade up sequentially"
+        },
+        {
+          "t": "13.6s",
+          "text": "RECIPTO / AI Receptionist",
+          "motion": "Name slams in from scale 0.6 with back-ease, badge fades beneath"
+        },
+        {
+          "t": "17.5s",
+          "text": "SAME MESSAGE — Recipto replies in 2 seconds",
+          "motion": "Original toast returns, then 2 reply cards slide in from right"
+        },
+        {
+          "t": "21.8s",
+          "text": "APPOINTMENT BOOKED.",
+          "motion": "Green check pops from scale 0.25, headline rises from below"
+        },
+        {
+          "t": "26.4s",
+          "text": "NEVER / LOSE A / CUSTOMER.",
+          "motion": "Each line slams in alternating left/right at 0.37s intervals"
+        },
+        {
+          "t": "28.9s",
+          "text": "EARLY ACCESS / NOV 5 / DM for details",
+          "motion": "Date drops from above, logo and CTA fade sequentially"
+        }
+      ],
+      "caption": "Your clinic is closed. But your patients aren’t.\n\nThey’re messaging at midnight, waiting for a reply — and moving on when no one answers.\n\nRecipro changes that. An AI receptionist that’s always on, responds in seconds, and books appointments while you sleep.\n\nEarly access opens November 5th. DM us now to get on the list.\n\n#Recipto #AIReceptionist #ClinicMarketing #HealthcareAI #NeverMissAPatient #AIForBusiness #WhatsAppBusiness #IndianStartups #MedTech #AITools",
+      "publish": "auto",
+      "hashtags": [
+        "#Recipto",
+        "#AIReceptionist",
+        "#ClinicMarketing",
+        "#HealthcareAI",
+        "#NeverMissAPatient",
+        "#AIForBusiness",
+        "#WhatsAppBusiness",
+        "#IndianStartups",
+        "#MedTech",
+        "#AITools"
+      ],
+      "headline": "Your clinic just lost a patient",
+      "postTime": "2026-10-24T20:00:00+05:30",
+      "rationale": [
+        "Rule #1 (86%): Hook opens with a pain-point scenario — a patient messaging at midnight with no reply. The timestamp and WhatsApp notification make it viscerally relatable to any clinic owner.",
+        "Rule #2 (78%): Product outcome shown by ~4s: the 'PATIENT GONE' stamp establishes stakes early before Recipto is introduced.",
+        "Rule #3 (71%): Fast cuts in first 5s — notification card at 0.5s, second toast at 2.2s, scene change at 4.2s, PATIENT GONE slam at 6.4s.",
+        "Rule #5 (62%): Scene 8 ends on 'DM for details' which visually echoes the opening notification format, creating a soft loop.",
+        "AI robot image (cinematic portrait) used as a full-bleed background in Scene 3 with Ken Burns slow pan for cinematic drama.",
+        "Voiceover by 'ash' (warm, confident, Indian English) synced to each beat; music ducks automatically under narration.",
+        "Cinematic style differs from all existing phone-frame Recipto reels — uses floating notification toast cards and immersive full-screen scenes instead."
+      ]
+    },
+    "source": "manual",
+    "status": "Approved",
+    "editedAt": "2026-10-22T18:39:18.798Z",
+    "updatedAt": "2026-10-22T18:39:18.799Z",
+    "voiceover": true,
+    "generatedAt": "2026-10-22T18:23:33.772Z",
+    "generatingOn": "OGP005"
+  },
+  {
+    "id": "p_mvj6deycmiy",
+    "date": "2026-10-24",
+    "time": "20:00",
+    "angle": "Motion reel showing AXION's build pipeline — idea → wireframe → code → deployed app → founder onboarding. Opens with pain (\"still planning 6 months out?\"), reveals outcome by 4s, fast cuts for first 5s, loops back to hook. (Playbook rules 1, 2, 3, 5)",
+    "title": "Your MVP could be live next month.",
+    "format": "reel",
+    "source": "auto-plan",
+    "status": "Skipped",
+    "updatedAt": "2026-10-22T11:12:46.715Z"
+  },
+  {
+    "id": "p_mvj6deyfo1i",
+    "date": "2026-10-25",
+    "time": "11:00",
+    "angle": "Single bold-layout post on AXION's philosophy: AI as amplifier, not replacement. Three punchy lines targeting CTOs tired of AI hype. CTA: Start Your Project.",
+    "error": null,
+    "title": "AI doesn't replace your engineers. It multiplies them.",
+    "format": "post",
+    "result": {
+      "cta": "Start Your Project",
+      "sub": "One senior engineer + AXION AI workflows = the output of an entire team.",
+      "files": [
+        "engine/out/ai-multiplies-engineers-2026-10-22/post.png"
+      ],
+      "format": "post",
+      "layout": "bold",
+      "caption": "CTOs — you've heard every AI pitch. Here's ours:\n\nAI doesn't replace your engineers.\nIt multiplies them.\n\nOne senior engineer + AXION AI workflows = the output of an entire team. No bloated headcount. No hype. Just production-ready code shipped in weeks.\n\nWe pair AI-powered workflows with senior enterprise engineers so your team punches 5× above its weight — and your product ships before your competitors even finish sprint planning.\n\nReady to multiply your team?\n👉 Start Your Project → Link in bio.",
+      "publish": "auto",
+      "hashtags": [
+        "#AI",
+        "#SoftwareDevelopment",
+        "#CTOlife",
+        "#EngineeringLeadership",
+        "#TechStartup",
+        "#ProductDevelopment",
+        "#AItools",
+        "#StartupIndia",
+        "#BuildFast",
+        "#AXION"
+      ],
+      "headline": "AI doesn't replace engineers. It multiplies them.",
+      "postTime": "Fri · 8:00 PM",
+      "rationale": [
+        "Rule #1: Opens with a pain-point reframe — 'you've heard every AI pitch' directly addresses CTO AI-fatigue before flipping to AXION's position",
+        "Brand Never: explicitly positions AI as amplifier not replacement, matching brand.md's core prohibition",
+        "Tone — Anti-hype: 'No hype. Just shipped code.' echoes AXION's confident, engineering-serious voice",
+        "Rule #4: Scheduled Fri 8 PM IST, highest reach window per playbook",
+        "Design: × divider as unique focal element differentiates from existing ai-amplifier and engineer-multiplier posts in engine/out/"
+      ]
+    },
+    "source": "auto-plan",
+    "status": "In review",
+    "editedAt": "2026-10-22T17:51:48.907Z",
+    "updatedAt": "2026-10-22T17:51:48.910Z",
+    "generatedAt": "2026-10-22T17:49:05.847Z"
+  },
+  {
+    "id": "p_mvj6deyiyir",
+    "date": "2026-10-26",
+    "time": "11:00",
+    "angle": "Recipto-focused carousel for Indian SMBs. 5 slides: each = one missed customer type (clinic, salon, gym, coaching institute). Final slide shows Recipto handling enquiries 24/7 on WhatsApp, Instagram, and calls. CTA: DM \"DEMO\" to see it live.",
+    "title": "Your clinic missed 40 calls this week.",
+    "format": "carousel",
+    "source": "auto-plan",
+    "status": "Planned",
+    "updatedAt": "2026-10-22T06:43:43.482Z"
+  },
+  {
+    "id": "p_mvj6deyq5o9",
+    "date": "2026-10-27",
+    "time": "09:00",
+    "angle": "Minimal-layout post targeting enterprises on old stacks. Three hidden costs: slow deploys, security risk, talent drain. Soft CTA to AXION's System Modernization & Legacy Migration service.",
+    "title": "That legacy system is bleeding money.",
+    "format": "post",
+    "source": "auto-plan",
+    "status": "Planned",
+    "updatedAt": "2026-10-22T06:43:43.490Z"
+  },
+  {
+    "id": "p_mvj6deyt1na",
+    "date": "2026-10-28",
+    "time": "20:00",
+    "angle": "Owner-filmed reel: walk through a real project timeline on whiteboard or screen. Show how AI-accelerated workflows compressed a 6-month fintech build to 5 weeks. Opens with pain question, result shown early (rule 2), ends looping back to hook (rule 5).",
+    "title": "We shipped a fintech app in 5 weeks.",
+    "format": "shoot",
+    "source": "auto-plan",
+    "status": "Planned",
+    "updatedAt": "2026-10-22T06:43:43.493Z"
+  },
+  {
+    "id": "p_mvj6deyx9dz",
+    "date": "2026-10-29",
+    "time": "20:00",
+    "angle": "Motion reel on DevOps/CI-CD reliability. Fast cuts: monitoring dashboard, zero-downtime deploy, Slack green checks. Targets CTOs afraid of production incidents. Showcases AXION cloud engineering on Azure/AWS. (Playbook rules 1, 3, 4)",
+    "title": "What breaks at 3am? Not our deployments.",
+    "format": "reel",
+    "source": "auto-plan",
+    "status": "Planned",
+    "updatedAt": "2026-10-22T06:43:43.497Z"
+  }
+]

@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-single
+server/.env
+server/.ig-token.json
+engine/out/*
+!engine/out/samples
+engine/analysis/*
+!engine/analysis/.gitkeep
+.DS_Store
+
+engine/uploads/*
+server/actions.json
+server/autopilot.json
+server/.cloud-seeded.json

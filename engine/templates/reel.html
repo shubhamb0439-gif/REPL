@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Unbounded:wght@600;800;900&display=swap" rel="stylesheet" />
+{{HEAD}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1920px; }
+  body { font-family: Inter, system-ui, sans-serif; color: #fff; background: var(--bg); overflow: hidden; }
+  :root { --primary: {{PRIMARY}}; --secondary: {{SECONDARY}}; --accent: {{ACCENT}}; --bg: {{BG}}; --logo-h: {{LOGOH}}px; }
+  .logo { display: block; height: var(--logo-h); width: auto; max-width: 60%; object-fit: contain; }
+  #stage { position: relative; width: 1080px; height: 1920px; overflow: hidden; }
+  /* Instagram UI covers the top ~220px and bottom ~420px of a reel — keep key text inside .safe */
+  .safe { position: absolute; left: 80px; right: 160px; top: 240px; bottom: 440px; }
+</style>
+</head>
+<body>
+<div id="stage">{{BODY}}</div>
+<script>
+  // The reel's own script must build ONE paused GSAP timeline and assign it to window.tl.
+  // The renderer calls tl.seek(t) for every frame, so animations are frame-exact.
+  {{SCRIPT}}
+</script>
+</body>
+</html>

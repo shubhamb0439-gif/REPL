@@ -1,0 +1,13 @@
+{
+  "name": "rypl-engine",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render:post": "node scripts/render-post.mjs"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "ffmpeg-static": "^5.3.0",
+    "playwright": "1.48.2"
+  }
+}

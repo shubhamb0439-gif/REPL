@@ -1,0 +1,219 @@
+[
+  {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "type": "global",
+    "weekday": "Sat"
+  },
+  {
+    "date": "2026-11-06",
+    "name": "Dhanteras",
+    "type": "festival",
+    "verify": true,
+    "weekday": "Fri"
+  },
+  {
+    "date": "2026-11-08",
+    "name": "Diwali",
+    "type": "festival",
+    "verify": true,
+    "weekday": "Sun"
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Bhai Dooj",
+    "type": "festival",
+    "verify": true,
+    "weekday": "Wed"
+  },
+  {
+    "date": "2026-11-13",
+    "name": "World Kindness Day",
+    "type": "awareness",
+    "weekday": "Fri"
+  },
+  {
+    "date": "2026-11-14",
+    "name": "Children's Day",
+    "type": "national",
+    "weekday": "Sat"
+  },
+  {
+    "date": "2026-11-15",
+    "name": "Chhath Puja",
+    "type": "festival",
+    "verify": true,
+    "weekday": "Sun"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "Guru Nanak Jayanti",
+    "type": "festival",
+    "verify": true,
+    "weekday": "Tue"
+  },
+  {
+    "date": "2026-11-26",
+    "name": "Constitution Day",
+    "type": "national",
+    "weekday": "Thu"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Black Friday",
+    "type": "commerce",
+    "weekday": "Fri"
+  },
+  {
+    "date": "2026-11-30",
+    "name": "Cyber Monday",
+    "type": "commerce",
+    "weekday": "Mon"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas",
+    "type": "festival",
+    "weekday": "Fri"
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "type": "global",
+    "weekday": "Thu"
+  },
+  {
+    "date": "2027-01-01",
+    "name": "New Year",
+    "type": "global",
+    "weekday": "Fri"
+  },
+  {
+    "date": "2027-01-12",
+    "name": "National Youth Day",
+    "type": "national",
+    "weekday": "Tue"
+  },
+  {
+    "date": "2027-01-13",
+    "name": "Lohri",
+    "type": "festival",
+    "weekday": "Wed"
+  },
+  {
+    "date": "2027-01-14",
+    "name": "Makar Sankranti / Pongal",
+    "type": "festival",
+    "verify": true,
+    "weekday": "Thu"
+  },
+  {
+    "date": "2027-01-26",
+    "name": "Republic Day",
+    "type": "national",
+    "weekday": "Tue"
+  },
+  {
+    "date": "2027-02-14",
+    "name": "Valentine's Day",
+    "type": "global",
+    "weekday": "Sun"
+  },
+  {
+    "date": "2027-03-08",
+    "name": "International Women's Day",
+    "type": "global",
+    "weekday": "Mon"
+  },
+  {
+    "date": "2027-03-22",
+    "name": "Holi",
+    "type": "festival",
+    "verify": true,
+    "weekday": "Mon"
+  },
+  {
+    "date": "2027-04-07",
+    "name": "World Health Day",
+    "type": "awareness",
+    "weekday": "Wed"
+  },
+  {
+    "date": "2027-04-22",
+    "name": "Earth Day",
+    "type": "awareness",
+    "weekday": "Thu"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "global",
+    "weekday": "Sat"
+  },
+  {
+    "date": "2027-05-09",
+    "name": "Mother's Day",
+    "type": "global",
+    "weekday": "Sun"
+  },
+  {
+    "date": "2027-06-20",
+    "name": "Father's Day",
+    "type": "global",
+    "weekday": "Sun"
+  },
+  {
+    "date": "2027-06-21",
+    "name": "International Yoga Day",
+    "type": "global",
+    "weekday": "Mon"
+  },
+  {
+    "date": "2027-06-30",
+    "name": "World Social Media Day",
+    "type": "awareness",
+    "weekday": "Wed"
+  },
+  {
+    "date": "2027-07-01",
+    "name": "National Doctors' Day",
+    "type": "national",
+    "weekday": "Thu"
+  },
+  {
+    "date": "2027-08-01",
+    "name": "Friendship Day",
+    "type": "global",
+    "weekday": "Sun"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Independence Day",
+    "type": "national",
+    "weekday": "Sun"
+  },
+  {
+    "date": "2027-09-05",
+    "name": "Teachers' Day",
+    "type": "national",
+    "weekday": "Sun"
+  },
+  {
+    "date": "2027-09-15",
+    "name": "Engineers' Day",
+    "type": "national",
+    "weekday": "Wed"
+  },
+  {
+    "date": "2027-10-02",
+    "name": "Gandhi Jayanti",
+    "type": "national",
+    "weekday": "Sat"
+  },
+  {
+    "date": "2027-10-10",
+    "name": "World Mental Health Day",
+    "type": "awareness",
+    "weekday": "Sun"
+  }
+]

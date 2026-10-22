@@ -1,0 +1,120 @@
+{
+  "name": "AXION",
+  "tagline": "From Vision to Production, in Weeks Not Months",
+  "about": "AXION is an AI-accelerated software development company that pairs AI-powered workflows with senior enterprise engineers to ship production-ready applications in weeks, not months. They serve startups and enterprises across regulated industries including healthcare, insurance, finance, and government. Every product is professionally architected, security-hardened, and cloud-deployed on Azure or AWS.",
+  "services": [
+    "Rapid MVP Development",
+    "Enterprise Web Applications",
+    "Mobile Apps (iOS & Android)",
+    "UI / UX Design",
+    "Cloud Engineering (Azure & AWS)",
+    "AI Integrations",
+    "Enterprise Automation",
+    "DevOps & CI/CD",
+    "API Development",
+    "Database Architecture",
+    "System Modernization & Legacy Migration",
+    "SaaS Development",
+    "Product Strategy & Technical Consulting",
+    "Managed Run & Scale (monthly retainer)"
+  ],
+  "audience": "Founders, CTOs, and product leaders at startups and enterprises in regulated, high-stakes industries (healthcare, insurance, finance, manufacturing, government) who need fast, secure, production-ready software without the traditional 4–12 month delivery timelines",
+  "tone": [
+    "Confident",
+    "Transparent",
+    "Results-focused",
+    "Anti-hype",
+    "Engineering-serious"
+  ],
+  "avoid": [
+    "Positioning AI as a gimmick or replacement for engineers — it amplifies them",
+    "Vague timelines or hidden costs",
+    "Overpromising without engineering substance",
+    "Generic startup buzzwords without backing"
+  ],
+  "colors": {
+    "bg": "#060a18",
+    "accent": "#f6f8ff",
+    "primary": "#2453ff",
+    "secondary": "#000000"
+  },
+  "handle": "@axion.teck.ai",
+  "cta": "Start Your Project",
+  "guidelines": "",
+  "guideFiles": [],
+  "subBrands": [
+    {
+      "id": "sb_mvj65mj50",
+      "cta": "DM \"DEMO\" to see it live",
+      "name": "Recipto",
+      "tone": [
+        "Confident",
+        "Transparent",
+        "Results-focused",
+        "Anti-hype",
+        "Engineering-serious"
+      ],
+      "about": "Recipto is an AI-powered receptionist product by AXION that handles customer communications across WhatsApp, Instagram, and phone calls for Indian SMBs.",
+      "avoid": [
+        "Positioning AI as a gimmick or replacement for engineers — it amplifies them",
+        "Vague timelines or hidden costs",
+        "Overpromising without engineering substance",
+        "Generic startup buzzwords without backing"
+      ],
+      "colors": {
+        "bg": "#0034f0",
+        "accent": "#e3e3e3",
+        "primary": "#000000",
+        "secondary": "#002fff"
+      },
+      "handle": "",
+      "tagline": "AI receptionist for WhatsApp, Instagram & calls",
+      "audience": "Indian SMB owners: clinics, salons, gyms, coaching institutes",
+      "services": [
+        "AI receptionist for WhatsApp",
+        "AI receptionist for Instagram",
+        "AI receptionist for phone calls"
+      ],
+      "guideFiles": [],
+      "guidelines": ""
+    },
+    {
+      "id": "sb_mvj65mj51",
+      "cta": "Try RYPL",
+      "name": "RYPL",
+      "tone": [
+        "Confident",
+        "Transparent",
+        "Results-focused",
+        "Anti-hype",
+        "Engineering-serious"
+      ],
+      "about": "RYPL is an AI-powered social media management tool by AXION that plans, writes, designs, and publishes content for brands.",
+      "avoid": [
+        "Positioning AI as a gimmick or replacement for engineers — it amplifies them",
+        "Vague timelines or hidden costs",
+        "Overpromising without engineering substance",
+        "Generic startup buzzwords without backing"
+      ],
+      "colors": {
+        "bg": "#060a18",
+        "accent": "#f6f8ff",
+        "primary": "#c5cce6",
+        "secondary": "#5a6285"
+      },
+      "handle": "",
+      "tagline": "AI social media manager",
+      "audience": "Indian SMBs and growing businesses needing consistent social media presence",
+      "services": [
+        "AI social media content planning",
+        "AI-generated posts and carousels",
+        "Reel creation and analysis",
+        "Automated Instagram publishing"
+      ],
+      "guideFiles": [],
+      "guidelines": ""
+    }
+  ],
+  "logo": "engine/uploads/1792650726494-Axion-Tech-Logo-on-Black.png",
+  "updatedAt": "2026-10-22T18:48:21.206Z"
+}

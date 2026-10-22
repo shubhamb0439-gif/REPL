@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  @apply bg-ink-950 font-sans text-zinc-200 antialiased;
+  background-image: radial-gradient(1000px 500px at 80% -20%, rgba(163, 177, 255, 0.06), transparent 60%);
+  background-attachment: fixed;
+}
+
+/* film grain */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 100;
+  opacity: 0.02;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+::selection {
+  background: rgba(163, 177, 255, 0.3);
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #2e2e34;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@layer components {
+  .glass {
+    @apply rounded-2xl border border-white/[0.07] bg-white/[0.025] backdrop-blur-xl;
+    box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.04);
+  }
+  .glass-hover {
+    @apply transition duration-300 hover:border-white/[0.14] hover:bg-white/[0.04];
+  }
+  .font-display {
+    letter-spacing: -0.025em;
+  }
+  .label {
+    @apply font-mono text-[10.5px] uppercase tracking-[0.18em] text-zinc-500;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition active:scale-[.98] disabled:opacity-50;
+  }
+  .btn-volt {
+    @apply btn bg-zinc-100 text-ink-950 hover:bg-white;
+  }
+  .btn-ghost {
+    @apply btn border border-white/10 bg-white/[0.03] text-zinc-200 hover:border-white/20 hover:bg-white/[0.06];
+  }
+  .input {
+    @apply w-full rounded-xl border border-white/10 bg-ink-900/70 px-3.5 py-2.5 text-sm text-zinc-100 outline-none placeholder:text-zinc-600 focus:border-white/25 focus:ring-2 focus:ring-white/5;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-white/10 bg-white/[0.03] px-2.5 py-1 text-xs text-zinc-300;
+  }
+  .text-gradient {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(100deg, #ffffff 0%, #a3b1ff 100%);
+  }
+}
+
+/* React Flow dark theme tweaks */
+.react-flow__attribution {
+  display: none;
+}
+.react-flow__controls button {
+  background: #18181b !important;
+  border-color: #2e2e34 !important;
+  fill: #c4c4d4 !important;
+}
+.react-flow__edge-path {
+  stroke-width: 2;
+}
+.react-flow__handle {
+  width: 10px !important;
+  height: 10px !important;
+  border: 2px solid #09090b !important;
+}
